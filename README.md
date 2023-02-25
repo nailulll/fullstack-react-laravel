@@ -1,2 +1,2 @@
-# fullstack-react-laravel
+# Fullstack React Laravel
 to learn
